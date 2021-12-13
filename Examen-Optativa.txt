@@ -1,0 +1,1550 @@
+<!DOCTYPE html>
+
+<html class="wide wow-animation" lang="es">
+<head><meta charset="utf-8" /><meta name="viewport" content="width=device-width, height=device-height, initial-scale=1.0,  maximum-scale=1" /><meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <!-- Google Analytics -->
+    <script>
+        window.ga = window.ga || function () { (ga.q = ga.q || []).push(arguments) }; ga.l = +new Date;
+        ga('create', 'G-92KJGZZ15V', 'auto');
+        ga('require', 'ec');
+    </script>
+    <script async src='https://www.google-analytics.com/analytics.js'></script>
+    <!-- End Google Analytics -->
+    <meta itemprop="itemCondition" content="http://schema.org/NewCondition" />
+     <!-- All CSS Files -->
+    <!-- Generales Basicos css -->
+    <link rel="stylesheet" href="https://www.ecobelleza.mx/generales/css/generales_basicos.min.css?version=16.22">
+    <link rel="stylesheet" href="https://www.ecobelleza.mx/generales/css/accordion.min.css?version=16.22">
+    <link rel="stylesheet" href="https://www.ecobelleza.mx/generales/css/jquery.nice-number.min.css?version=16.22" />
+    <link rel="stylesheet" href="https://www.ecobelleza.mx/generales/css/jquery-ui.min.css?version=16.22" />
+     <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700%7CLato%7CLora" />
+    <link rel="stylesheet" href="https://www.ecobelleza.mx/cupcake/css/bootstrap.css">
+    <link rel="stylesheet" href="https://www.ecobelleza.mx/cupcake/css/fonts.css">
+    <link rel="stylesheet" href="https://www.ecobelleza.mx/cupcake/css/style.css">
+    <link rel="stylesheet" href="https://www.ecobelleza.mx/cupcake/css/estilos.css?version=16.22">
+    <style>.ie-panel{display: none;background: #212121;padding: 10px 0;box-shadow: 3px 3px 5px 0 rgba(0,0,0,.3);clear: both;text-align:center;position: relative;z-index: 1;} html.ie-10 .ie-panel, html.lt-ie-10 .ie-panel {display: block;}</style>
+  <style>
+        
+    </style>
+    
+    <style>.boton_filtros {
+    background-color: #a1d4b3;
+    opacity: 0.9;
+    filter: alpha(opacity=90);
+}
+    .boton_filtros:hover {
+        background-color: #a1d4b3;
+        opacity: 1;
+        filter: alpha(opacity=100);
+    }
+#amount, #amount-2 {
+    color: #a1d4b3 !important;
+}
+.checkout_button_small_checkout {
+    background-color: #a1d4b3 !important;
+    opacity: 0.9 !important;
+    filter: alpha(opacity=90) !important;
+}
+    .checkout_button_small_checkout:hover {
+        background-color: #a1d4b3;
+        opacity: 1;
+        filter: alpha(opacity=100);
+    }
+.producto_boton {
+    background-color: #a1d4b3;
+}
+.add-to-cart-button, .add-to-cart-button2 {
+    background-color: #a1d4b3;
+}
+.newsletter_btn {
+    background-color: #a1d4b3;
+    opacity: 0.9;
+    filter: alpha(opacity=90);
+}
+    .newsletter_btn:hover {
+        background-color: #a1d4b3;
+        opacity: 1;
+        filter: alpha(opacity=100);
+    }
+.cookies_btn {
+    background-color: #a1d4b3;
+    opacity: 0.9;
+    filter: alpha(opacity=90);
+}
+    .cookies_btn:hover {
+        background-color: #a1d4b3;
+        opacity: 1;
+        filter: alpha(opacity=100);
+    }
+.cart-overview-big .button {
+    background-color: #a1d4b3;
+    opacity: 0.9;
+    filter: alpha(opacity=90);
+    border-color: #a1d4b3;
+}
+    .cart-overview-big .button:hover {
+        background-color: #a1d4b3;
+        opacity: 1;
+        border-color: #a1d4b3;
+        filter: alpha(opacity=100);
+    }
+.fa-search-plus {
+    color: #a1d4b3 !important;
+}
+.btn_404 {
+    background-color: #a1d4b3;
+    opacity: 1;
+    border-color: #a1d4b3;
+    filter: alpha(opacity=100);
+}
+.nice-number-button {
+    background-color: #a1d4b3;
+}
+.rd-navbar-static .rd-navbar-search-toggle:hover {
+    color: #a1d4b3;
+}
+.rd-navbar-basket:hover {
+    color: #a1d4b3;
+}
+.select-inline .select2-container--default .select2-selection--single {
+    background-color: #a1d4b3;
+}
+.rd-navbar-static .rd-nav-link:hover {
+    color: #a1d4b3;
+}
+.rd-navbar-static .rd-dropdown-link:hover {
+    color: #a1d4b3;
+}
+.ui-to-top {
+    background-color: #a1d4b3;
+}
+.rd-navbar-static .rd-nav-item.focus .rd-nav-link, .rd-navbar-static .rd-nav-item.opened .rd-nav-link {
+    color: #a1d4b3;
+}
+.select2-container--default .select2-results__option[aria-selected="true"] {
+    background-color: #a1d4b3;
+}
+.contacts-classic a:hover {
+    color: #a1d4b3;
+}
+.cssload-circle .cssload-inner {
+    border: 5px solid rgba(161, 212, 179, 0.7);
+    box-shadow: inset 0 0 10px rgba(161, 212, 179, 0.15);
+}
+.post-classic-time {
+    color: #a1d4b3;
+}
+.page-link:hover {
+    color: #a1d4b3;
+}
+.page-item.active > .page-link, .page-item.active > .page-link:hover, .page-item.active > .page-link:focus, .page-item.active > .page-link:active {
+    color: #a1d4b3;
+}
+h1 a:hover, h2 a:hover, h3 a:hover, h4 a:hover, h5 a:hover, h6 a:hover, [class^="heading-"] a:hover {
+    color: #a1d4b3;
+}
+.post-minimal-time, .post-minimal-title a:hover {
+    color: #a1d4b3;
+}
+.post-modern-tag::before {
+    background: rgba(161, 212, 179, 0.7);
+}
+.breadcrumbs-custom-title.cart {
+    color: #a1d4b3;
+}
+.button-primary:hover, .button-primary:active {
+    background-color: #a1d4b3;
+    border-color: #a1d4b3;
+    filter: alpha(opacity=100);
+    opacity: 1;
+}
+.button-primary {
+    background-color: #a1d4b3;
+    border-color: #a1d4b3;
+    filter: alpha(opacity=80);
+    opacity: 0.8;
+}
+    .button-primary.button-zakaria::after {
+        background: #a1d4b3;
+    }
+    .button-primary, .button-primary:focus {
+        background-color: #a1d4b3;
+        border-color: #a1d4b3;
+    }
+.team-classic-name a::before {
+    background: #a1d4b3;
+}
+.product-price {
+    color: #a1d4b3;
+}
+.button-gray-14:hover {
+    background: #a1d4b3;
+}
+.button-primary-2 {
+    background: #a1d4b3;
+    border-color: #a1d4b3;
+}
+    .button-primary-2.button-zakaria::after {
+        background: #a1d4b3;
+        border-color: #a1d4b3;
+    }
+    .button-primary-2:focus {
+        border-color: #a1d4b3;
+    }
+    .card-corporate .card-arrow .icon {
+        background: #a1d4b3;
+    }
+.swiper-button-prev:hover, .swiper-button-next:hover {
+    color: #a1d4b3;
+}
+.footer-modern-list > li:hover a {
+    color: #a1d4b3;
+}
+.list-social-3 a:hover {
+    border-color: #a1d4b3;
+    color: #a1d4b3;
+}
+.contacts-creative .icon {
+    color: #a1d4b3;
+}
+.footer-modern-list > li:hover::before {
+    background: #a1d4b3;
+}
+.contacts-creative a:hover {
+    color: #a1d4b3;
+}
+.button-secondary, .button-secondary:focus {
+    background: #a1d4b3;
+    border-color: #a1d4b3;
+}
+    .button-secondary.button-zakaria::after {
+        border-color: #a1d4b3;
+        background: #a1d4b3;
+    }
+.rd-navbar-static .rd-nav-item.active .rd-nav-link {
+    color: #a1d4b3;
+}
+.button-secondary:hover, .button-secondary:active {
+    color: #a1d4b3;
+    border-color: #a1d4b3;
+}
+.ui-button.ui-state-active:hover, .ui-button:active, .ui-state-active, .ui-widget-content .ui-state-active, .ui-widget-header .ui-state-active, a.ui-button:active {
+    border: 1px solid #a1d4b3 !important;
+    background: #a1d4b3 !important;
+}
+.product-badge-sale {
+    background: #a1d4b3;
+}
+.button-search:hover {
+    color: #a1d4b3;
+}
+.icon_filtros {
+    color: #a1d4b3;
+}
+a, a:focus, a:active {
+    color: #a1d4b3;
+}
+    a:hover {
+        color: #a1d4b3;
+    }
+.slick-nav-1 .slick-arrow {
+    background: #a1d4b3;
+}
+    .slick-nav-1 .slick-arrow:hover {
+        background-color: #a1d4b3;
+    }
+.stepper-arrow:hover {
+    color: #a1d4b3;
+}
+.button-default-outline-2:hover, .button-default-outline-2:active {
+    background-color: #a1d4b3;
+    border-color: #a1d4b3;
+}
+::selection {
+    background: #a1d4b3;
+}
+.tabs-line .nav-link::after {
+    background: #a1d4b3;
+}
+.single-product-price {
+    color: #a1d4b3;
+}
+.rd-navbar-basket span {
+    color: #a1d4b3;
+}
+.table-cart-link:hover {
+    color: #a1d4b3;
+}
+.product-cart-evento {
+    color: #a1d4b3;
+}
+.evento_agregar_precio {
+    color: #a1d4b3;
+}
+.evento_addcart {
+    background-color: #a1d4b3;
+}
+    .evento_addcart:hover {
+        color: #a1d4b3;
+    }
+.btn_salir {
+    background-color: #a1d4b3;
+}
+.account_tit2 {
+    color: #a1d4b3;
+}
+.table-custom.table-custom-primary thead th {
+    background: #a1d4b3;
+}
+.account_editar:hover {
+    color: #a1d4b3;
+}
+.swiper-pagination-bullet-active {
+    background: #a1d4b3;
+}
+.swiper-pagination-bullet {
+    background: #a1d4b3;
+    filter: alpha(opacity=50);
+    opacity: 0.5;
+}
+.rd-navbar-fixed .rd-nav-item:hover .rd-nav-link, .rd-navbar-fixed .rd-nav-item.focus .rd-nav-link, .rd-navbar-fixed .rd-nav-item.active .rd-nav-link, .rd-navbar-fixed .rd-nav-item.opened .rd-nav-link {
+    background: #a1d4b3;
+}
+.rd-navbar-fixed .rd-megamenu-list > li:hover > a, .rd-navbar-fixed .rd-megamenu-list > li.focus > a, .rd-navbar-fixed .rd-megamenu-list > li.active > a, .rd-navbar-fixed .rd-megamenu-list > li.opened > a, .rd-navbar-fixed .rd-navbar-dropdown > li:hover > a, .rd-navbar-fixed .rd-navbar-dropdown > li.focus > a, .rd-navbar-fixed .rd-navbar-dropdown > li.active > a, .rd-navbar-fixed .rd-navbar-dropdown > li.opened > a {
+    background: #a1d4b3;
+}
+.menu_badge {
+    color: #a1d4b3;
+}
+.rd-navbar-static .rd-megamenu-title {
+    color: #a1d4b3;
+}
+.rd-navbar-static .rd-megamenu-title {
+    color: #a1d4b3;
+}
+.rd-navbar-static .rd-megamenu-list-link:hover {
+    color: #a1d4b3;
+}
+.regalos_salir {
+    color: #a1d4b3;
+    transition: background-color 0.3s ease;
+}
+    .regalos_salir:hover {
+        background-color: #a1d4b3;
+    }
+.ui-to-top, .ui-to-top:focus, .ui-to-top:active {
+    background-color: #a1d4b3;
+}
+.rd-navbar-fixed .rd-megamenu-title {
+    color: #a1d4b3;
+}
+.select2-container--default .select2-selection--multiple .select2-selection__choice {
+    background-color: #a1d4b3;
+}
+.micuenta_direc_btn {
+    background-color: #a1d4b3;
+    opacity: 0.9;
+    filter: filter: alpha(opacity=90);
+}
+
+    .micuenta_direc_btn:hover {
+        background-color: #a1d4b3;
+        opacity: 1;
+        filter: alpha(opacity=100);
+    }
+
+
+.btn_autofacturacion {
+    background-color: #a1d4b3;
+}
+.btn_autofacturacion:hover {
+    background-color: #a1d4b380;
+}
+.owl-dot.active {
+    background-color: #a1d4b3;
+}
+.owl-dot:hover, .owl-dot:focus {
+    background-color: #a1d4b3;
+}
+
+
+.button_wishlist_custom {
+    border-color: #a1d4b3 !important;
+    background-color: transparent;
+    color: #a1d4b3 !important;
+}.boton_filtros {
+    color: #000000;
+}
+.producto_boton .icono_producto {
+    color: #000000;
+}
+.producto_boton a {
+    color: #000000;
+}
+.add-to-cart-button, .add-to-cart-button2 {
+    color: #000000;
+}
+.newsletter_btn, .newsletter_btn:hover {
+    color: #000000;
+}
+.cookies_btn, .cookies_btn:hover {
+    color: #000000;
+}
+.cart-overview-big .button, .cart-overview-big .button:hover {
+    color: #000000;
+}
+.btn_404 {
+    color: #000000;
+}
+.nice-number-button {
+    color: #000000;
+}
+.ui-to-top {
+    color: #000000;
+}
+.select2-container--default .select2-results__option[aria-selected="true"] {
+    color: #000000;
+}
+.button-primary {
+    color: #000000;
+}
+    .button-primary, .button-primary:focus {
+        color: #000000;
+    }
+.card-corporate .card-arrow .icon {
+    color: #000000;
+}
+.button-primary-2 {
+    color: #000000;
+}
+
+    .button-primary-2.button-zakaria::after {
+        color: #000000;
+    }
+
+    .button-primary-2:focus {
+        color: #000000;
+    }
+.button-secondary, .button-secondary:focus {
+    color: #000000;
+}
+    .button-secondary:hover, .button-secondary:active {
+        background: #000000;
+    }
+.ui-button.ui-state-active:hover, .ui-button:active, .ui-state-active, .ui-widget-content .ui-state-active, .ui-widget-header .ui-state-active, a.ui-button:active {
+    color: #000000 !important;
+}
+.product-badge-sale {
+    color: #000000;
+}
+.slick-nav-1 .slick-arrow {
+    color: #000000;
+}
+    .slick-nav-1 .slick-arrow:hover {
+        color: #000000;
+    }
+.button-default-outline-2:hover, .button-default-outline-2:active {
+    color: #000000;
+}
+::selection {
+    color: #000000;
+}
+.evento_addcart {
+    color: #000000;
+}
+    .evento_addcart:hover {
+        background-color: #000000;
+    }
+.btn_salir {
+    color: #000000;
+}
+.table-custom.table-custom-primary thead th {
+    color: #000000;
+}
+.rd-navbar-fixed .rd-nav-item:hover .rd-nav-link, .rd-navbar-fixed .rd-nav-item.focus .rd-nav-link, .rd-navbar-fixed .rd-nav-item.active .rd-nav-link, .rd-navbar-fixed .rd-nav-item.opened .rd-nav-link {
+    color: #000000;
+}
+.rd-navbar-fixed .rd-megamenu-list > li:hover > a, .rd-navbar-fixed .rd-megamenu-list > li.focus > a, .rd-navbar-fixed .rd-megamenu-list > li.active > a, .rd-navbar-fixed .rd-megamenu-list > li.opened > a, .rd-navbar-fixed .rd-navbar-dropdown > li:hover > a, .rd-navbar-fixed .rd-navbar-dropdown > li.focus > a, .rd-navbar-fixed .rd-navbar-dropdown > li.active > a, .rd-navbar-fixed .rd-navbar-dropdown > li.opened > a {
+    color: #000000;
+}
+.regalos_salir:hover {
+    color: #000000;
+}
+.select2-container--default .select2-selection--multiple .select2-selection__choice {
+    color: #000000;
+}
+.select2-container--default .select2-selection--multiple .select2-selection__choice__remove {
+    color: #000000;
+}
+    .select2-container--default .select2-selection--multiple .select2-selection__choice__remove:hover {
+        color: #000000;
+    }
+.micuenta_direc_btn, .micuenta_direc_btn:hover, .micuenta_direc_btn:active {
+    color: #000000 !important;
+}
+
+.btn_autofacturacion {
+    color: #000000 !important;
+}</style>
+   <link rel="apple-touch-icon" sizes="57x57" href="https://s3.amazonaws.com/contenido.ipos/fotos/1346/ecommerce/02c71a8f9db64e4aade37d55a84886ec_23072021092104.png" />
+                <link rel="apple-touch-icon" sizes="60x60" href="https://s3.amazonaws.com/contenido.ipos/fotos/1346/ecommerce/02c71a8f9db64e4aade37d55a84886ec_23072021092104.png" />
+                <link rel="apple-touch-icon" sizes="72x72"  href="https://s3.amazonaws.com/contenido.ipos/fotos/1346/ecommerce/02c71a8f9db64e4aade37d55a84886ec_23072021092104.png" />
+                <link rel="apple-touch-icon" sizes="76x76" href="https://s3.amazonaws.com/contenido.ipos/fotos/1346/ecommerce/02c71a8f9db64e4aade37d55a84886ec_23072021092104.png" />
+                <link rel="apple-touch-icon" sizes="114x114"  href="https://s3.amazonaws.com/contenido.ipos/fotos/1346/ecommerce/02c71a8f9db64e4aade37d55a84886ec_23072021092104.png" />
+                <link rel="apple-touch-icon" sizes="120x120"  href="https://s3.amazonaws.com/contenido.ipos/fotos/1346/ecommerce/02c71a8f9db64e4aade37d55a84886ec_23072021092104.png" />
+                <link rel="apple-touch-icon" sizes="144x144" href="https://s3.amazonaws.com/contenido.ipos/fotos/1346/ecommerce/02c71a8f9db64e4aade37d55a84886ec_23072021092104.png" />
+                <link rel="apple-touch-icon" sizes="152x152" href="https://s3.amazonaws.com/contenido.ipos/fotos/1346/ecommerce/02c71a8f9db64e4aade37d55a84886ec_23072021092104.png" />
+                <link rel="apple-touch-icon" sizes="180x180" href="https://s3.amazonaws.com/contenido.ipos/fotos/1346/ecommerce/02c71a8f9db64e4aade37d55a84886ec_23072021092104.png" />
+                <link rel="icon" type="image/png" sizes="192x192"  href="https://s3.amazonaws.com/contenido.ipos/fotos/1346/ecommerce/02c71a8f9db64e4aade37d55a84886ec_23072021092104.png" />
+                <link rel="icon" type="image/png" sizes="32x32" href="https://s3.amazonaws.com/contenido.ipos/fotos/1346/ecommerce/02c71a8f9db64e4aade37d55a84886ec_23072021092104.png" />
+                <link rel="icon" type="image/png" sizes="96x96"  href="https://s3.amazonaws.com/contenido.ipos/fotos/1346/ecommerce/02c71a8f9db64e4aade37d55a84886ec_23072021092104.png" />
+                <link rel="icon" type="image/png" sizes="16x16"  href="https://s3.amazonaws.com/contenido.ipos/fotos/1346/ecommerce/02c71a8f9db64e4aade37d55a84886ec_23072021092104.png" />
+    
+         <link rel="shortcut icon" type="image/x-icon" href="https://s3.amazonaws.com/contenido.ipos/fotos/1346/ecommerce/03cf81936bb14e46b9dcc2cc2e8df65a_23072021092104.png" />
+
+        <script src="https://www.ecobelleza.mx/cupcake/js/core.min.js?version=16.22"></script>
+    <meta itemprop="itemCondition" content="http://schema.org/NewCondition" />
+     <title> Ecobelleza</title>
+
+    <link rel="alternate" hreflang="es-mx"  href="https://www.ecobelleza.mx?lang=es" />
+    <link rel="alternate" hreflang="x-default" href="https://www.ecobelleza.mx/" />
+    <script type="application/ld+json">
+  {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Ecobelleza",
+    "url": "https://www.ecobelleza.mx/",
+    "address": "Avenida Yucatán Jardines de Merida iposmx.Estado iposmx.Pais",
+    "sameAs": [
+      "https://www.facebook.com/EcoBellezaMx/",  "https://www.instagram.com/ecobellezamx/" 
+    ]
+  }
+</script>
+     
+        <meta property="og:title" content="Ecobelleza"/>
+	    <meta property="og:type" content="website" />
+        <meta property="og:site_name" content="Ecobelleza" />
+  	    <meta property="og:image" content="https://s3.amazonaws.com/contenido.ipos/fotos/1346/ecommerce/02c71a8f9db64e4aade37d55a84886ec_23072021092104.png"/>
+        <meta property="og:url" content="https://www.ecobelleza.mx/"/>
+  	    <meta property="og:description" content="EcoBelleza Mexico reúne en un solo lugar las mejores marcas de cosmética natural, maquillaje vegano, skincare, cuidado corporal y estilo de vida sustentable." />
+        <meta name="description" content="EcoBelleza Mexico reúne en un solo lugar las mejores marcas de cosmética natural, maquillaje vegano, skincare, cuidado corporal y estilo de vida sustentable.">
+        <meta name="keywords" content="belleza, salud, bienestar, cuidado facial, cosmeticos, vida sustentable">
+        <meta name="twitter:card" content="summary_large_image" />
+	    <meta name="twitter:title" content="Ecobelleza">
+	    <meta name="twitter:description" content="EcoBelleza Mexico reúne en un solo lugar las mejores marcas de cosmética natural, maquillaje vegano, skincare, cuidado corporal y estilo de vida sustentable.">
+	    <meta name="twitter:image" content="https://s3.amazonaws.com/contenido.ipos/fotos/1346/ecommerce/03cf81936bb14e46b9dcc2cc2e8df65a_23072021092104.png">	
+        <meta name="twitter:url" content="https://www.ecobelleza.mx/"/>
+        <meta name="twitter:site" content=""/>
+
+        
+    <!-- Facebook Pixel Code -->
+    <script>
+        !function (f, b, e, v, n, t, s) {
+            if (f.fbq) return; n = f.fbq = function () {
+                n.callMethod ?
+                    n.callMethod.apply(n, arguments) : n.queue.push(arguments)
+            };
+            if (!f._fbq) f._fbq = n; n.push = n; n.loaded = !0; n.version = '2.0';
+            n.queue = []; t = b.createElement(e); t.async = !0;
+            t.src = v; s = b.getElementsByTagName(e)[0];
+            s.parentNode.insertBefore(t, s)
+        }
+        (window, document, 'script', 'https://connect.facebook.net/en_US/fbevents.js');
+        fbq('init', '187885578990229');
+        fbq('track', 'PageView');
+    </script>
+    <noscript>
+        <img height="1" width="1" src="https://www.facebook.com/tr?id=187885578990229&ev=PageView&noscript=1" />
+    </noscript>
+    <!-- End Facebook Pixel Code -->
+    
+        <!-- Global site tag (gtag.js) - Google Analytics -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-92KJGZZ15V"></script>
+        <script>
+            window.dataLayer = window.dataLayer || [];
+            function gtag() { dataLayer.push(arguments); }
+            gtag('js', new Date());
+            gtag('config', 'G-92KJGZZ15V');
+
+            
+        </script>
+    <title>
+
+</title></head>
+<body>
+    <form name="aspnetForm" method="post" action="./" id="aspnetForm">
+<div>
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="YsM/zd4lQ86ivKOus4Rzz1mUyPcyYmqBK/iKHl9hulf2XFkgQ8oZSKTxKvlP67ZMegtl7F7UOyQi2OxTn99h0azAbKU=" />
+</div>
+
+<div>
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="E076815E" />
+</div>
+        <div class="ie-panel"><a href="http://windows.microsoft.com/en-US/internet-explorer/"><img src="images/ie8-panel/warning_bar_0000_us.jpg" height="42" width="820" alt="You are using an outdated browser. For a faster, safer browsing experience, upgrade for free today."></a></div>
+    <div class="preloader" id="loadingG">
+      <div class="preloader-body">
+        <div class="cssload-bell">
+          <div class="cssload-circle">
+            <div class="cssload-inner"></div>
+          </div>
+          <div class="cssload-circle">
+            <div class="cssload-inner"></div>
+          </div>
+          <div class="cssload-circle">
+            <div class="cssload-inner"></div>
+          </div>
+          <div class="cssload-circle">
+            <div class="cssload-inner"></div>
+          </div>
+          <div class="cssload-circle">
+            <div class="cssload-inner"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+         <!-- Datos de Inicio del Body -->
+         
+         <!-- Pop-Up Message -->
+        <div class="ipmx_popuparea"  id="ipmx_popuparea" style="display:none">
+            <div class="ipmx_popuparea_bg"  onclick="closePopUp()">
+            
+            </div>
+            <div class="ipmx_popuparea_square" id="square" style="display:none">
+                <div class="ipmx_popuparea_square_close" onclick="closePopUp()">X</div>
+            </div>
+            <div class="ipmx_popuparea_square ipmx_popuparea_message" id="message" style="display:none">
+                <div class="ipmx_popuparea_square_close" onclick="closePopUp2()">X</div>
+                <div class="ipmx_popuparea_message_area" >
+                    <div id="message_area"></div></div>
+            </div>
+
+        </div>
+        <!-- hidden inputs -->
+         <input type="hidden" value="https://www.ecobelleza.mx/" id="siteRuta" />
+        <input type="hidden" value="https://s3.amazonaws.com/contenido.ipos/" id="rutaImagenes" />
+        
+        <!-- cookies -->
+         
+    
+     <!-- COOKIES -->
+    
+    <input type="hidden" value="index" id="index" />
+
+         <div class="page">
+
+
+        
+                <style>
+
+                </style>
+         
+
+        <style>
+            .select2-results__options {
+                width:max-content !important;
+            }
+
+            .select-inline .select2-container--default .select2-selection--single {	            
+	            border-radius: 5% !important;	         
+                width:max-content !important;
+            }
+        </style>
+      
+      <!-- Page Header-->
+      <header class="section page-header header-creative-wrap">
+        <!-- RD Navbar-->
+        <div class="rd-navbar-wrap">
+          <nav class="rd-navbar rd-navbar-creative rd-navbar-creative-2" data-layout="rd-navbar-fixed" data-sm-layout="rd-navbar-fixed" data-md-layout="rd-navbar-fixed" data-md-device-layout="rd-navbar-fixed" data-lg-layout="rd-navbar-static" data-lg-device-layout="rd-navbar-fixed" data-xl-layout="rd-navbar-static" data-xl-device-layout="rd-navbar-static" data-xxl-layout="rd-navbar-static" data-xxl-device-layout="rd-navbar-static" data-lg-stick-up-offset="100px" data-xl-stick-up-offset="112px" data-xxl-stick-up-offset="132px" data-lg-stick-up="true" data-xl-stick-up="true" data-xxl-stick-up="true">
+            <div class="rd-navbar-collapse-toggle rd-navbar-fixed-element-1" data-rd-navbar-toggle=".rd-navbar-collapse"><span></span></div>
+            <div class="rd-navbar-aside-outer">
+              <div class="rd-navbar-aside">
+                <div class="rd-navbar-collapse">
+                  <ul class="contacts-classic">
+
+                       
+                         <li>
+                           <span>
+                             Llámanos: 
+                        
+                                 <a href="tel:9992904998">9992904998</a>                                      
+                             
+                           </span>                                  
+                         </li>
+                      <li><a href="/cdn-cgi/l/email-protection#1563707b6174665570767a77707979706f743b786d"><span class="__cf_email__" data-cfemail="2355464d5742506346404c41464f4f4659420d4e5b">[email&#160;protected]</span></a></li>
+                <ul class="list-inline list-social-3 list-inline-sm">
+                    <li><a href="https://www.facebook.com/EcoBellezaMx/" class="icon mdi mdi-facebook" target="_blank"></a></li><li><a href="https://www.instagram.com/ecobellezamx/" class="icon mdi mdi-instagram" target="_blank"></a></li>
+
+                </ul>
+                  
+                  </ul><a class="rd-navbar-basket rd-navbar-basket-mobile fl-bigmug-line-shopping202" href="https://www.ecobelleza.mx/cart"><span id="badge2"></span></a>
+                </div>
+                <!-- RD Navbar Panel-->
+                <div class="rd-navbar-panel">
+                  <!-- RD Navbar Toggle-->
+                  <button class="rd-navbar-toggle" data-rd-navbar-toggle=".rd-navbar-nav-wrap"><span></span></button>
+                  <!-- RD Navbar Brand-->
+                  <div class="rd-navbar-brand">
+                    <!--Brand--><a class="brand" href="https://www.ecobelleza.mx/index"><img class="brand-logo-dark" src="https://s3.amazonaws.com/contenido.ipos/fotos/1346/ecommerce/876502bcbc9a4a358cec4321701c9910_23072021092104.png" alt="" width="156" height="46"/><img class="brand-logo-light" src="https://s3.amazonaws.com/contenido.ipos/fotos/1346/ecommerce/178f0e1d93a447b4921ecc89e9be2f6f_23072021092104.png" alt="" width="156" height="46"/></a>
+                  </div>
+                </div>
+                <div class="rd-navbar-aside-element">
+                  <!-- RD Navbar Search-->
+                  <div class="rd-navbar-search rd-navbar-search-2">
+                    <button class="rd-navbar-search-toggle rd-navbar-fixed-element-3" data-rd-navbar-toggle=".rd-navbar-search"><span></span></button>
+                    <div class="rd-search" >
+                      <div class="form-wrap">
+                          
+                        <input class="rd-navbar-search-form-input form-input" value="" id="rd-navbar-search-form-input" type="text" name="s" autocomplete="off"/>
+                        <label class="form-label" for="rd-navbar-search-form-input">Buscar......</label>
+                        <div class="rd-search-results-live" id="rd-search-results-live"></div>
+                        <button class="rd-search-form-submit fl-bigmug-line-search74" type="button" onclick="buscarSitio('rd-navbar-search-form-input')"></button>
+                      </div>
+                    </div>
+                  </div>
+                  <!-- RD Navbar Basket-->
+
+
+                      <div class="rd-navbar-basket-wrap" id="shoppingCart" style="">
+                        <button class="rd-navbar-basket fl-bigmug-line-shopping202" data-rd-navbar-toggle=".cart-inline"><span id="badge"></span></button>
+                        <div class="cart-inline" id="cart"></div>
+                      </div>
+
+                      <div class="rd-navbar-basket-wrap" style="">
+                        <button class="rd-navbar-basket fl-bigmug-line-shopping198 icon_wishlist_custom" data-rd-navbar-toggle=".wishlist-inline">
+                            <span id="badge_wish_list"></span>
+                        </button>  
+                        <div class="wishlist-inline" id="wishlist"></div>
+                      </div>
+
+
+
+
+
+                    <div class="rd-navbar-account-wrap"  style="">
+                    <button class="rd-navbar-basket fl-bigmug-line-user144" onclick="window.location='https://www.ecobelleza.mx/micuenta'" type="button"></button>
+                    
+                  </div>
+                
+                    
+                </div>
+              </div>
+            </div>
+            <div class="rd-navbar-main-outer">
+              <div class="rd-navbar-main">
+                <div class="rd-navbar-nav-wrap">
+                    <ul class="rd-navbar-nav">
+    <li class="rd-nav-item" id="https://www.ecobelleza.mx/productos/cuidado-facial">
+    <a class="rd-nav-link" target="_self" href="https://www.ecobelleza.mx/productos/cuidado-facial">ROSTRO</a>
+    <ul class="rd-menu rd-navbar-dropdown">
+    <li class="rd-dropdown-item" id="https://www.ecobelleza.mx/productos?tags=limpiadores">
+    <a class="rd-dropdown-link" href="https://www.ecobelleza.mx/productos?tags=limpiadores"  target="_self">Limpiadores</a>
+</li><li class="rd-dropdown-item" id="https://www.ecobelleza.mx/productos?tags=desmaquillantes">
+    <a class="rd-dropdown-link" href="https://www.ecobelleza.mx/productos?tags=desmaquillantes"  target="_self">Desmaquillantes</a>
+</li><li class="rd-dropdown-item" id="https://www.ecobelleza.mx/productos?tags=tonicos">
+    <a class="rd-dropdown-link" href="https://www.ecobelleza.mx/productos?tags=tonicos"  target="_self">Tonicos</a>
+</li><li class="rd-dropdown-item" id="https://www.ecobelleza.mx/productos?tags=humectantes">
+    <a class="rd-dropdown-link" href="https://www.ecobelleza.mx/productos?tags=humectantes"  target="_self">Humectantes</a>
+</li><li class="rd-dropdown-item" id="https://www.ecobelleza.mx/productos?tags=serums">
+    <a class="rd-dropdown-link" href="https://www.ecobelleza.mx/productos?tags=serums"  target="_self">Serums</a>
+</li><li class="rd-dropdown-item" id="https://www.ecobelleza.mx/productos?tags=aceites faciales">
+    <a class="rd-dropdown-link" href="https://www.ecobelleza.mx/productos?tags=aceites faciales"  target="_self">Aceites Faciales</a>
+</li><li class="rd-dropdown-item" id="https://www.ecobelleza.mx/productos?tags=contorno de ojos">
+    <a class="rd-dropdown-link" href="https://www.ecobelleza.mx/productos?tags=contorno de ojos"  target="_self">Contorno de Ojos</a>
+</li><li class="rd-dropdown-item" id="https://www.ecobelleza.mx/productos?tags=mascarillas y exfoliantes">
+    <a class="rd-dropdown-link" href="https://www.ecobelleza.mx/productos?tags=mascarillas y exfoliantes"  target="_self">Mascarillas y Exfoliantes</a>
+</li><li class="rd-dropdown-item" id="https://www.ecobelleza.mx/productos?tags=cuidado de labios">
+    <a class="rd-dropdown-link" href="https://www.ecobelleza.mx/productos?tags=cuidado de labios"  target="_self">Cuidado de Labios</a>
+</li><li class="rd-dropdown-item" id="https://www.ecobelleza.mx/productos?tags=cejas y pestañas">
+    <a class="rd-dropdown-link" href="https://www.ecobelleza.mx/productos?tags=cejas y pestañas"  target="_self">Cejas y Pestañas</a>
+</li><li class="rd-dropdown-item" id="https://www.ecobelleza.mx/productos?tags=proteccion solar">
+    <a class="rd-dropdown-link" href="https://www.ecobelleza.mx/productos?tags=proteccion solar"  target="_self">Proteccion Solar</a>
+</li>
+</ul>
+
+    
+</li>
+
+<li class="rd-nav-item" id="#">
+    <a class="rd-nav-link" target="_self" href="#">TIPO DE PIEL</a>
+    <ul class="rd-menu rd-navbar-dropdown">
+    <li class="rd-dropdown-item" id="https://www.ecobelleza.mx/productos?tags=acne">
+    <a class="rd-dropdown-link" href="https://www.ecobelleza.mx/productos?tags=acne"  target="_self">Acne</a>
+</li><li class="rd-dropdown-item" id="https://www.ecobelleza.mx/productos?tags=antiedad">
+    <a class="rd-dropdown-link" href="https://www.ecobelleza.mx/productos?tags=antiedad"  target="_self">Antiedad</a>
+</li><li class="rd-dropdown-item" id="https://www.ecobelleza.mx/productos?tags=piel grasa">
+    <a class="rd-dropdown-link" href="https://www.ecobelleza.mx/productos?tags=piel grasa"  target="_self">Piel Grasa</a>
+</li><li class="rd-dropdown-item" id="https://www.ecobelleza.mx/productos?tags=piel mixta">
+    <a class="rd-dropdown-link" href="https://www.ecobelleza.mx/productos?tags=piel mixta"  target="_self">Piel Mixta</a>
+</li><li class="rd-dropdown-item" id="https://www.ecobelleza.mx/productos?tags=piel normal">
+    <a class="rd-dropdown-link" href="https://www.ecobelleza.mx/productos?tags=piel normal"  target="_self">Piel Normal</a>
+</li><li class="rd-dropdown-item" id="https://www.ecobelleza.mx/productos?tags=piel seca">
+    <a class="rd-dropdown-link" href="https://www.ecobelleza.mx/productos?tags=piel seca"  target="_self">Piel Seca</a>
+</li><li class="rd-dropdown-item" id="https://www.ecobelleza.mx/productos?tags=piel sensible">
+    <a class="rd-dropdown-link" href="https://www.ecobelleza.mx/productos?tags=piel sensible"  target="_self">Piel Sensible</a>
+</li><li class="rd-dropdown-item" id="https://www.ecobelleza.mx/productos?tags=todo tipo de piel">
+    <a class="rd-dropdown-link" href="https://www.ecobelleza.mx/productos?tags=todo tipo de piel"  target="_self">Todo Tipo de Piel</a>
+</li>
+</ul>
+
+    
+</li>
+
+<li class="rd-nav-item" id="https://www.ecobelleza.mx/productos/maquillaje">
+    <a class="rd-nav-link" target="_self" href="https://www.ecobelleza.mx/productos/maquillaje">MAQUILLAJE</a>
+    <ul class="rd-menu rd-navbar-dropdown">
+    <li class="rd-dropdown-item" id="https://www.ecobelleza.mx/productos?tags=rostro">
+    <a class="rd-dropdown-link" href="https://www.ecobelleza.mx/productos?tags=rostro"  target="_self">Rostro</a>
+</li><li class="rd-dropdown-item" id="https://www.ecobelleza.mx/productos?tags=ojos">
+    <a class="rd-dropdown-link" href="https://www.ecobelleza.mx/productos?tags=ojos"  target="_self">Ojos</a>
+</li><li class="rd-dropdown-item" id="https://www.ecobelleza.mx/productos?tags=labios">
+    <a class="rd-dropdown-link" href="https://www.ecobelleza.mx/productos?tags=labios"  target="_self">Labios</a>
+</li><li class="rd-dropdown-item" id="https://www.ecobelleza.mx/productos?tags=herramientas">
+    <a class="rd-dropdown-link" href="https://www.ecobelleza.mx/productos?tags=herramientas"  target="_self">Herramientas</a>
+</li>
+</ul>
+
+    
+</li>
+
+<li class="rd-nav-item" id="https://www.ecobelleza.mx/productos/cabello">
+    <a class="rd-nav-link" target="_self" href="https://www.ecobelleza.mx/productos/cabello">CABELLO</a>
+    <ul class="rd-menu rd-navbar-dropdown">
+    <li class="rd-dropdown-item" id="https://www.ecobelleza.mx/productos?tags=shampoos">
+    <a class="rd-dropdown-link" href="https://www.ecobelleza.mx/productos?tags=shampoos"  target="_self">Shampoos</a>
+</li><li class="rd-dropdown-item" id="https://www.ecobelleza.mx/productos?tags=acondicionadores">
+    <a class="rd-dropdown-link" href="https://www.ecobelleza.mx/productos?tags=acondicionadores"  target="_self">Acondicionadores</a>
+</li><li class="rd-dropdown-item" id="https://www.ecobelleza.mx/productos?tags=tratamientos">
+    <a class="rd-dropdown-link" href="https://www.ecobelleza.mx/productos?tags=tratamientos"  target="_self">Tratamientos</a>
+</li><li class="rd-dropdown-item" id="https://www.ecobelleza.mx/productos?tags=estilizado">
+    <a class="rd-dropdown-link" href="https://www.ecobelleza.mx/productos?tags=estilizado"  target="_self">Estilizado</a>
+</li>
+</ul>
+
+    
+</li>
+
+<li class="rd-nav-item" id="https://www.ecobelleza.mx/productos/cuerpo">
+    <a class="rd-nav-link" target="_self" href="https://www.ecobelleza.mx/productos/cuerpo">CUERPO</a>
+    <ul class="rd-menu rd-navbar-dropdown">
+    <li class="rd-dropdown-item" id="https://www.ecobelleza.mx/productos?tags=aceites corporales">
+    <a class="rd-dropdown-link" href="https://www.ecobelleza.mx/productos?tags=aceites corporales"  target="_self">Aceites Corporales</a>
+</li><li class="rd-dropdown-item" id="https://www.ecobelleza.mx/productos?tags=cuidado solar">
+    <a class="rd-dropdown-link" href="https://www.ecobelleza.mx/productos?tags=cuidado solar"  target="_self">Cuidado Solar</a>
+</li><li class="rd-dropdown-item" id="https://www.ecobelleza.mx/productos?tags=desodorantes">
+    <a class="rd-dropdown-link" href="https://www.ecobelleza.mx/productos?tags=desodorantes"  target="_self">Desodorantes</a>
+</li><li class="rd-dropdown-item" id="https://www.ecobelleza.mx/productos?tags=exfoliantes">
+    <a class="rd-dropdown-link" href="https://www.ecobelleza.mx/productos?tags=exfoliantes"  target="_self">Exfoliantes</a>
+</li><li class="rd-dropdown-item" id="https://www.ecobelleza.mx/productos?tags=jabones">
+    <a class="rd-dropdown-link" href="https://www.ecobelleza.mx/productos?tags=jabones"  target="_self">Jabones</a>
+</li><li class="rd-dropdown-item" id="https://www.ecobelleza.mx/productos?tags=lociones y cremas">
+    <a class="rd-dropdown-link" href="https://www.ecobelleza.mx/productos?tags=lociones y cremas"  target="_self">Lociones y Cremas</a>
+</li><li class="rd-dropdown-item" id="https://www.ecobelleza.mx/productos?tags=reafirmante">
+    <a class="rd-dropdown-link" href="https://www.ecobelleza.mx/productos?tags=reafirmante"  target="_self">Reafirmantes</a>
+</li><li class="rd-dropdown-item" id="https://www.ecobelleza.mx/productos?tags=repelentes">
+    <a class="rd-dropdown-link" href="https://www.ecobelleza.mx/productos?tags=repelentes"  target="_self">Repelentes</a>
+</li>
+</ul>
+
+    
+</li>
+
+<li class="rd-nav-item" id="https://www.ecobelleza.mx/productos?tags=hombre">
+    <a class="rd-nav-link" target="_self" href="https://www.ecobelleza.mx/productos?tags=hombre">HOMBRE</a>
+    
+    
+</li>
+
+<li class="rd-nav-item" id="https://www.ecobelleza.mx/productos/varios">
+    <a class="rd-nav-link" target="_self" href="https://www.ecobelleza.mx/productos/varios">VARIOS</a>
+    <ul class="rd-menu rd-navbar-dropdown">
+    <li class="rd-dropdown-item" id="https://www.ecobelleza.mx/productos?tags=accesorios">
+    <a class="rd-dropdown-link" href="https://www.ecobelleza.mx/productos?tags=accesorios"  target="_self">Accesorios</a>
+</li><li class="rd-dropdown-item" id="https://www.ecobelleza.mx/productos?tags=aceites vegetales">
+    <a class="rd-dropdown-link" href="https://www.ecobelleza.mx/productos?tags=aceites vegetales"  target="_self">Aceites Vegetales</a>
+</li><li class="rd-dropdown-item" id="https://www.ecobelleza.mx/productos?tags=aceites esenciales">
+    <a class="rd-dropdown-link" href="https://www.ecobelleza.mx/productos?tags=aceites esenciales"  target="_self">Aceites Esenciales</a>
+</li><li class="rd-dropdown-item" id="https://www.ecobelleza.mx/productos?tags=aromaterapia">
+    <a class="rd-dropdown-link" href="https://www.ecobelleza.mx/productos?tags=aromaterapia"  target="_self">Aromaterapia</a>
+</li><li class="rd-dropdown-item" id="https://www.ecobelleza.mx/productos?tags=barba y afeitado">
+    <a class="rd-dropdown-link" href="https://www.ecobelleza.mx/productos?tags=barba y afeitado"  target="_self">Barba y Afeitado</a>
+</li><li class="rd-dropdown-item" id="https://www.ecobelleza.mx/productos?tags=botiquin">
+    <a class="rd-dropdown-link" href="https://www.ecobelleza.mx/productos?tags=botiquin"  target="_self">Botiquin</a>
+</li><li class="rd-dropdown-item" id="https://www.ecobelleza.mx/productos?tags=cuidado dental">
+    <a class="rd-dropdown-link" href="https://www.ecobelleza.mx/productos?tags=cuidado dental"  target="_self">Cuidado Dental</a>
+</li><li class="rd-dropdown-item" id="https://www.ecobelleza.mx/productos?tags=cuidado intimo">
+    <a class="rd-dropdown-link" href="https://www.ecobelleza.mx/productos?tags=cuidado intimo"  target="_self">Cuidado Intimo</a>
+</li><li class="rd-dropdown-item" id="https://www.ecobelleza.mx/productos?tags=envases">
+    <a class="rd-dropdown-link" href="https://www.ecobelleza.mx/productos?tags=envases"  target="_self">Envases y Frascos</a>
+</li><li class="rd-dropdown-item" id="https://www.ecobelleza.mx/productos?tags=hogar">
+    <a class="rd-dropdown-link" href="https://www.ecobelleza.mx/productos?tags=hogar"  target="_self">Hogar</a>
+</li><li class="rd-dropdown-item" id="https://www.ecobelleza.mx/productos?tags=insumos naturales">
+    <a class="rd-dropdown-link" href="https://www.ecobelleza.mx/productos?tags=insumos naturales"  target="_self">Insumos Naturales</a>
+</li><li class="rd-dropdown-item" id="https://www.ecobelleza.mx/productos?tags=mama y bebe">
+    <a class="rd-dropdown-link" href="https://www.ecobelleza.mx/productos?tags=mama y bebe"  target="_self">Mama y Bebe</a>
+</li><li class="rd-dropdown-item" id="https://www.ecobelleza.mx/productos?tags=uñas">
+    <a class="rd-dropdown-link" href="https://www.ecobelleza.mx/productos?tags=uñas"  target="_self">Uñas</a>
+</li>
+</ul>
+
+    
+</li>
+
+<li class="rd-nav-item" id="https://www.ecobelleza.mx/productos?tags=kits">
+    <a class="rd-nav-link" target="_self" href="https://www.ecobelleza.mx/productos?tags=kits">KITS</a>
+    <ul class="rd-menu rd-navbar-dropdown">
+    <li class="rd-dropdown-item" id="https://www.ecobelleza.mx/productos?tags=navidad">
+    <a class="rd-dropdown-link" href="https://www.ecobelleza.mx/productos?tags=navidad"  target="_self">Navidad 2020</a>
+</li>
+</ul>
+
+    
+</li>
+
+<li class="rd-nav-item" id="#">
+    <a class="rd-nav-link" target="_self" href="#">MARCAS</a>
+    <ul class="rd-menu rd-navbar-dropdown">
+    <li class="rd-dropdown-item" id="https://www.ecobelleza.mx/productos?m=29">
+    <a class="rd-dropdown-link" href="https://www.ecobelleza.mx/productos?m=29"  target="_self">Acaricia</a>
+</li><li class="rd-dropdown-item" id="https://www.ecobelleza.mx/productos?m=28">
+    <a class="rd-dropdown-link" href="https://www.ecobelleza.mx/productos?m=28"  target="_self">Ahmar</a>
+</li><li class="rd-dropdown-item" id="https://www.ecobelleza.mx/productos?m=27">
+    <a class="rd-dropdown-link" href="https://www.ecobelleza.mx/productos?m=27"  target="_self">Airesen</a>
+</li><li class="rd-dropdown-item" id="https://www.ecobelleza.mx/productos?m=25">
+    <a class="rd-dropdown-link" href="https://www.ecobelleza.mx/productos?m=25"  target="_self">Angelcup</a>
+</li><li class="rd-dropdown-item" id="https://www.ecobelleza.mx/productos?m=24">
+    <a class="rd-dropdown-link" href="https://www.ecobelleza.mx/productos?m=24"  target="_self">Berudia</a>
+</li><li class="rd-dropdown-item" id="https://www.ecobelleza.mx/productos?m=23">
+    <a class="rd-dropdown-link" href="https://www.ecobelleza.mx/productos?m=23"  target="_self">Biozano</a>
+</li><li class="rd-dropdown-item" id="https://www.ecobelleza.mx/productos?m=22">
+    <a class="rd-dropdown-link" href="https://www.ecobelleza.mx/productos?m=22"  target="_self">Carbonyko</a>
+</li><li class="rd-dropdown-item" id="https://www.ecobelleza.mx/productos?m=21">
+    <a class="rd-dropdown-link" href="https://www.ecobelleza.mx/productos?m=21"  target="_self">Corazon de Cacao</a>
+</li><li class="rd-dropdown-item" id="https://www.ecobelleza.mx/productos?m=20">
+    <a class="rd-dropdown-link" href="https://www.ecobelleza.mx/productos?m=20"  target="_self">DoTerra</a>
+</li><li class="rd-dropdown-item" id="https://www.ecobelleza.mx/productos?m=2">
+    <a class="rd-dropdown-link" href="https://www.ecobelleza.mx/productos?m=2"  target="_self">EcoBelleza</a>
+</li><li class="rd-dropdown-item" id="https://www.ecobelleza.mx/productos?m=18">
+    <a class="rd-dropdown-link" href="https://www.ecobelleza.mx/productos?m=18"  target="_self">Ere Perez</a>
+</li><li class="rd-dropdown-item" id="https://www.ecobelleza.mx/productos?m=17">
+    <a class="rd-dropdown-link" href="https://www.ecobelleza.mx/productos?m=17"  target="_self">Femme</a>
+</li><li class="rd-dropdown-item" id="https://www.ecobelleza.mx/productos?m=37">
+    <a class="rd-dropdown-link" href="https://www.ecobelleza.mx/productos?m=37"  target="_self">Genesis Robles</a>
+</li><li class="rd-dropdown-item" id="https://www.ecobelleza.mx/productos?m=16">
+    <a class="rd-dropdown-link" href="https://www.ecobelleza.mx/productos?m=16"  target="_self">Homu</a>
+</li><li class="rd-dropdown-item" id="https://www.ecobelleza.mx/productos?m=1">
+    <a class="rd-dropdown-link" href="https://www.ecobelleza.mx/productos?m=1"  target="_self">Lubella</a>
+</li><li class="rd-dropdown-item" id="https://www.ecobelleza.mx/productos?m=14">
+    <a class="rd-dropdown-link" href="https://www.ecobelleza.mx/productos?m=14"  target="_self">Maya Natura</a>
+</li><li class="rd-dropdown-item" id="https://www.ecobelleza.mx/productos?m=13">
+    <a class="rd-dropdown-link" href="https://www.ecobelleza.mx/productos?m=13"  target="_self">Maya Solar</a>
+</li><li class="rd-dropdown-item" id="https://www.ecobelleza.mx/productos?m=12">
+    <a class="rd-dropdown-link" href="https://www.ecobelleza.mx/productos?m=12"  target="_self">Mayan Scents</a>
+</li><li class="rd-dropdown-item" id="https://www.ecobelleza.mx/productos?m=11">
+    <a class="rd-dropdown-link" href="https://www.ecobelleza.mx/productos?m=11"  target="_self">Onea</a>
+</li><li class="rd-dropdown-item" id="https://www.ecobelleza.mx/productos?m=10">
+    <a class="rd-dropdown-link" href="https://www.ecobelleza.mx/productos?m=10"  target="_self">Pico Pico</a>
+</li><li class="rd-dropdown-item" id="https://www.ecobelleza.mx/productos?m=9">
+    <a class="rd-dropdown-link" href="https://www.ecobelleza.mx/productos?m=9"  target="_self">Sdg Nature</a>
+</li><li class="rd-dropdown-item" id="https://www.ecobelleza.mx/productos?m=8">
+    <a class="rd-dropdown-link" href="https://www.ecobelleza.mx/productos?m=8"  target="_self">Teia</a>
+</li><li class="rd-dropdown-item" id="https://www.ecobelleza.mx/productos?m=7">
+    <a class="rd-dropdown-link" href="https://www.ecobelleza.mx/productos?m=7"  target="_self">Viniphera</a>
+</li><li class="rd-dropdown-item" id="https://www.ecobelleza.mx/productos?m=6">
+    <a class="rd-dropdown-link" href="https://www.ecobelleza.mx/productos?m=6"  target="_self">VitAtl</a>
+</li><li class="rd-dropdown-item" id="https://www.ecobelleza.mx/productos?m=5">
+    <a class="rd-dropdown-link" href="https://www.ecobelleza.mx/productos?m=5"  target="_self">Vivagreen</a>
+</li><li class="rd-dropdown-item" id="https://www.ecobelleza.mx/productos?m=4">
+    <a class="rd-dropdown-link" href="https://www.ecobelleza.mx/productos?m=4"  target="_self">Xixanthe</a>
+</li><li class="rd-dropdown-item" id="https://www.ecobelleza.mx/productos?m=3">
+    <a class="rd-dropdown-link" href="https://www.ecobelleza.mx/productos?m=3"  target="_self">Varios</a>
+</li>
+</ul>
+
+    
+</li>
+
+<li class="rd-nav-item" id="https://www.ecobelleza.mx/blog/8">
+    <a class="rd-nav-link" target="_self" href="https://www.ecobelleza.mx/blog/8">BLOG</a>
+    
+    
+</li>
+
+<li class="rd-nav-item" id="https://www.ecobelleza.mx/productos?tags=sale">
+    <a class="rd-nav-link" target="_self" href="https://www.ecobelleza.mx/productos?tags=sale">DESCUENTOS</a>
+    
+    
+</li>
+
+
+</ul>
+                </div>
+              </div>
+            </div>
+          </nav>
+        </div>
+      </header>
+              <style>
+            .rd-navbar-static .rd-megamenu-item-1 .rd-megamenu-list {
+    columns: 1;
+}
+        </style>
+            
+
+<link rel="stylesheet" href="https://www.ecobelleza.mx/generales/css/magnific-popup.min.css" />
+<div id="comp18" class="anchor"></div><div class='espacio_inicial'></div><section class="section section-md" style="background-color:#c1e2cd;color:#000000!important;">
+    <div class="container">
+        <h2 class="text-transform-capitalize wow fadeScale" style="color:#000000!important;"></h2>
+        <p style="color:#000000!important;"><p style="text-align: center;"><span style="font-size:24px;">Lo mejor de la cosm&eacute;tica como debe ser...<br />
+natural + sano + consciente</span></p>
+
+<div style="text-align: center;"><br />
+<span style="font-size:12px;">Env&iacute;os Nacionales $90 &nbsp;| &nbsp;Env&iacute;os GRATIS comprando m&aacute;s de $1,800mxn &nbsp;| &nbsp;M&eacute;rida, Yuc. env&iacute;os $30 &oacute; Pick-up</span></div></p>
+    </div>
+</section><div id="comp2" class="anchor"></div><section class="section section-md" style="background-color:#ffffff;color:#ffffff!important;">
+    <div class="container">
+        <h2 class="text-transform-capitalize wow fadeScale" style="color:#000000!important;"></h2>
+        <div class="row row-lg row-30 row-lg-50">
+            <div class="col-sm-6 col-lg-4 isotope-item" data-filter="Type 1">
+    <style>
+        .thumbnail-classic-figure-categoria
+        {
+            width:370px;
+            height:315px;
+            background-position:50% 50%;
+            background-repeat:no-repeat;
+            background-size:cover;
+        }
+    </style>
+    <!-- Thumbnail Classic-->
+    <article class="thumbnail-classic block-1"  style="cursor:pointer" onclick="window.location='https://www.ecobelleza.mx/productos/cuidado-facial'">
+        <div class="thumbnail-classic-figure thumbnail-classic-figure-categoria" data-background="https://s3.amazonaws.com/contenido.ipos/fotos/1346/categoria/f7a0e9accef041e4b95cba4c5fd03ee3_18022021100839.jpg">
+         
+        </div>
+        <div class="thumbnail-classic-caption" >
+            <div>
+                <h4 class="thumbnail-classic-title"><a href="https://www.ecobelleza.mx/productos/cuidado-facial">CUIDADO FACIAL</a></h4>
+            </div>
+        </div>
+    </article>
+</div><div class="col-sm-6 col-lg-4 isotope-item" data-filter="Type 1">
+    <style>
+        .thumbnail-classic-figure-categoria
+        {
+            width:370px;
+            height:315px;
+            background-position:50% 50%;
+            background-repeat:no-repeat;
+            background-size:cover;
+        }
+    </style>
+    <!-- Thumbnail Classic-->
+    <article class="thumbnail-classic block-1"  style="cursor:pointer" onclick="window.location='https://www.ecobelleza.mx/productos/maquillaje'">
+        <div class="thumbnail-classic-figure thumbnail-classic-figure-categoria" data-background="https://s3.amazonaws.com/contenido.ipos/fotos/1346/categoria/bb4e506249eb434b94f2ecd6935a04e5_18022021100958.jpg">
+         
+        </div>
+        <div class="thumbnail-classic-caption" >
+            <div>
+                <h4 class="thumbnail-classic-title"><a href="https://www.ecobelleza.mx/productos/maquillaje">MAQUILLAJE</a></h4>
+            </div>
+        </div>
+    </article>
+</div><div class="col-sm-6 col-lg-4 isotope-item" data-filter="Type 1">
+    <style>
+        .thumbnail-classic-figure-categoria
+        {
+            width:370px;
+            height:315px;
+            background-position:50% 50%;
+            background-repeat:no-repeat;
+            background-size:cover;
+        }
+    </style>
+    <!-- Thumbnail Classic-->
+    <article class="thumbnail-classic block-1"  style="cursor:pointer" onclick="window.location='https://www.ecobelleza.mx/productos/cuerpo'">
+        <div class="thumbnail-classic-figure thumbnail-classic-figure-categoria" data-background="https://s3.amazonaws.com/contenido.ipos/fotos/1346/categoria/bbf0c0d1197c40628763927612f9a0d2_18022021100812.jpg">
+         
+        </div>
+        <div class="thumbnail-classic-caption" >
+            <div>
+                <h4 class="thumbnail-classic-title"><a href="https://www.ecobelleza.mx/productos/cuerpo">CUERPO</a></h4>
+            </div>
+        </div>
+    </article>
+</div><div class="col-sm-6 col-lg-4 isotope-item" data-filter="Type 1">
+    <style>
+        .thumbnail-classic-figure-categoria
+        {
+            width:370px;
+            height:315px;
+            background-position:50% 50%;
+            background-repeat:no-repeat;
+            background-size:cover;
+        }
+    </style>
+    <!-- Thumbnail Classic-->
+    <article class="thumbnail-classic block-1"  style="cursor:pointer" onclick="window.location='https://www.ecobelleza.mx/productos/cabello'">
+        <div class="thumbnail-classic-figure thumbnail-classic-figure-categoria" data-background="https://s3.amazonaws.com/contenido.ipos/fotos/1346/categoria/5d5c57b4a7bb47a9888a5fbd07f167d8_18022021100730.jpg">
+         
+        </div>
+        <div class="thumbnail-classic-caption" >
+            <div>
+                <h4 class="thumbnail-classic-title"><a href="https://www.ecobelleza.mx/productos/cabello">CABELLO</a></h4>
+            </div>
+        </div>
+    </article>
+</div><div class="col-sm-6 col-lg-4 isotope-item" data-filter="Type 1">
+    <style>
+        .thumbnail-classic-figure-categoria
+        {
+            width:370px;
+            height:315px;
+            background-position:50% 50%;
+            background-repeat:no-repeat;
+            background-size:cover;
+        }
+    </style>
+    <!-- Thumbnail Classic-->
+    <article class="thumbnail-classic block-1"  style="cursor:pointer" onclick="window.location='https://www.ecobelleza.mx/productos/varios'">
+        <div class="thumbnail-classic-figure thumbnail-classic-figure-categoria" data-background="https://s3.amazonaws.com/contenido.ipos/fotos/1346/categoria/265a10c78fd34f17b22dc035b79bae41_18022021101032.jpg">
+         
+        </div>
+        <div class="thumbnail-classic-caption" >
+            <div>
+                <h4 class="thumbnail-classic-title"><a href="https://www.ecobelleza.mx/productos/varios">VARIOS</a></h4>
+            </div>
+        </div>
+    </article>
+</div><div class="col-sm-6 col-lg-4 isotope-item" data-filter="Type 1">
+    <style>
+        .thumbnail-classic-figure-categoria
+        {
+            width:370px;
+            height:315px;
+            background-position:50% 50%;
+            background-repeat:no-repeat;
+            background-size:cover;
+        }
+    </style>
+    <!-- Thumbnail Classic-->
+    <article class="thumbnail-classic block-1"  style="cursor:pointer" onclick="window.location='https://www.ecobelleza.mx/productos/kits'">
+        <div class="thumbnail-classic-figure thumbnail-classic-figure-categoria" data-background="https://s3.amazonaws.com/contenido.ipos/fotos/1346/categoria/b1863feaf8924c3585e185d308a25432_18022021100923.jpg">
+         
+        </div>
+        <div class="thumbnail-classic-caption" >
+            <div>
+                <h4 class="thumbnail-classic-title"><a href="https://www.ecobelleza.mx/productos/kits">KITS</a></h4>
+            </div>
+        </div>
+    </article>
+</div>
+        </div>
+    </div>
+</section><div id="comp3" class="anchor"></div><section class="section section-md" style="">
+    <div class="container">
+        <h2 class="text-transform-capitalize wow fadeScale" style="">Los Más Vendidos</h2>
+        <div class="row row-lg row-30 row-lg-50">
+            <div class="col-sm-6 col-md-4 col-lg-3">
+    <!-- Product-->
+    <article class="product wow fadeInRight"> 
+        <div class="product-body">
+            <div class="product-figure">
+                <div class="producto_foto" data-background="https://s3.amazonaws.com/contenido.ipos/fotos/1346/producto/m_t_e2405455f9a342ad913ec258f9a07ed3_16042021074753.jpeg"></div>
+            </div>
+            <h5 class="product-title"><a href="https://www.ecobelleza.mx/producto/espuma-limpiadora-facial/220">Espuma Limpiadora Facial</a></h5>
+            <div class="product-price-wrap">
+                <div class="product-price">$70.00+</div>
+            </div>
+        </div>
+        <span class="product-badge product-badge-sale" style="display: none;">XXProducto.DescuentoPorXX</span>
+        <div class="product-button-wrap">
+            <div class="product-button"><a class="button button-primary-2 button-zakaria fl-bigmug-line-shopping202" href="https://www.ecobelleza.mx/producto/espuma-limpiadora-facial/220" title="Comprar"></a></div>
+        </div>
+    </article>
+</div><div class="col-sm-6 col-md-4 col-lg-3">
+    <!-- Product-->
+    <article class="product wow fadeInRight"> 
+        <div class="product-body">
+            <div class="product-figure">
+                <div class="producto_foto" data-background="https://s3.amazonaws.com/contenido.ipos/fotos/1346/producto/m_t_be68502f537f4f1585632c74c5256575_18022021021601.jpg"></div>
+            </div>
+            <h5 class="product-title"><a href="https://www.ecobelleza.mx/producto/shampoo-reconstructivo-de-vino/512">Shampoo Reconstructivo de Vino</a></h5>
+            <div class="product-price-wrap">
+                <div class="product-price">$270.00</div>
+            </div>
+        </div>
+        <span class="product-badge product-badge-sale" style="display: none;">XXProducto.DescuentoPorXX</span>
+        <div class="product-button-wrap">
+            <div class="product-button"><a class="button button-primary-2 button-zakaria fl-bigmug-line-shopping202" href="https://www.ecobelleza.mx/producto/shampoo-reconstructivo-de-vino/512" title="Comprar"></a></div>
+        </div>
+    </article>
+</div><div class="col-sm-6 col-md-4 col-lg-3">
+    <!-- Product-->
+    <article class="product wow fadeInRight"> 
+        <div class="product-body">
+            <div class="product-figure">
+                <div class="producto_foto" data-background="https://s3.amazonaws.com/contenido.ipos/fotos/1346/producto/m_t_976b239feb474a54bf1aebf72497a48e_18022021021418.png"></div>
+            </div>
+            <h5 class="product-title"><a href="https://www.ecobelleza.mx/producto/gel-para-cejas-con-color/732">Gel para Cejas con Color</a></h5>
+            <div class="product-price-wrap">
+                <div class="product-price">$250.00</div>
+            </div>
+        </div>
+        <span class="product-badge product-badge-sale" style="display: none;">XXProducto.DescuentoPorXX</span>
+        <div class="product-button-wrap">
+            <div class="product-button"><a class="button button-primary-2 button-zakaria fl-bigmug-line-shopping202" href="https://www.ecobelleza.mx/producto/gel-para-cejas-con-color/732" title="Comprar"></a></div>
+        </div>
+    </article>
+</div><div class="col-sm-6 col-md-4 col-lg-3">
+    <!-- Product-->
+    <article class="product wow fadeInRight"> 
+        <div class="product-body">
+            <div class="product-figure">
+                <div class="producto_foto" data-background="https://s3.amazonaws.com/contenido.ipos/fotos/1346/producto/m_t_92f33f4d1e5f42d4b8832af0d2b6cdd3_18022021021128.png"></div>
+            </div>
+            <h5 class="product-title"><a href="https://www.ecobelleza.mx/producto/polvo-translucido-de-maiz/956">Polvo Translucido de Maiz</a></h5>
+            <div class="product-price-wrap">
+                <div class="product-price">$600.00</div>
+            </div>
+        </div>
+        <span class="product-badge product-badge-sale" style="display: none;">XXProducto.DescuentoPorXX</span>
+        <div class="product-button-wrap">
+            <div class="product-button"><a class="button button-primary-2 button-zakaria fl-bigmug-line-shopping202" href="https://www.ecobelleza.mx/producto/polvo-translucido-de-maiz/956" title="Comprar"></a></div>
+        </div>
+    </article>
+</div><div class="col-sm-6 col-md-4 col-lg-3">
+    <!-- Product-->
+    <article class="product wow fadeInRight"> 
+        <div class="product-body">
+            <div class="product-figure">
+                <div class="producto_foto" data-background="https://s3.amazonaws.com/contenido.ipos/fotos/1346/producto/m_t_cae57e35badd4182a68dcc117270ef14_18022021021821.jpeg"></div>
+            </div>
+            <h5 class="product-title"><a href="https://www.ecobelleza.mx/producto/acido-hialuronico-gel-concentrado/1412">Acido Hialuronico Gel Concentrado</a></h5>
+            <div class="product-price-wrap">
+                <div class="product-price">$330.00</div>
+            </div>
+        </div>
+        <span class="product-badge product-badge-sale" style="display: none;">XXProducto.DescuentoPorXX</span>
+        <div class="product-button-wrap">
+            <div class="product-button"><a class="button button-primary-2 button-zakaria fl-bigmug-line-shopping202" href="https://www.ecobelleza.mx/producto/acido-hialuronico-gel-concentrado/1412" title="Comprar"></a></div>
+        </div>
+    </article>
+</div><div class="col-sm-6 col-md-4 col-lg-3">
+    <!-- Product-->
+    <article class="product wow fadeInRight"> 
+        <div class="product-body">
+            <div class="product-figure">
+                <div class="producto_foto" data-background="https://s3.amazonaws.com/contenido.ipos/fotos/1346/producto/m_t_f058f47c837f4d36845036d342d706c7_18022021021857.jpg"></div>
+            </div>
+            <h5 class="product-title"><a href="https://www.ecobelleza.mx/producto/radiance-serum-con-niacinamida/1432">Radiance Serum con Niacinamida</a></h5>
+            <div class="product-price-wrap">
+                <div class="product-price">$470.00</div>
+            </div>
+        </div>
+        <span class="product-badge product-badge-sale" style="display: none;">XXProducto.DescuentoPorXX</span>
+        <div class="product-button-wrap">
+            <div class="product-button"><a class="button button-primary-2 button-zakaria fl-bigmug-line-shopping202" href="https://www.ecobelleza.mx/producto/radiance-serum-con-niacinamida/1432" title="Comprar"></a></div>
+        </div>
+    </article>
+</div><div class="col-sm-6 col-md-4 col-lg-3">
+    <!-- Product-->
+    <article class="product wow fadeInRight"> 
+        <div class="product-body">
+            <div class="product-figure">
+                <div class="producto_foto" data-background="https://s3.amazonaws.com/contenido.ipos/fotos/1346/producto/m_t_af4c11ba3fd24414b01a950d1d28eb86_22022021070024.png"></div>
+            </div>
+            <h5 class="product-title"><a href="https://www.ecobelleza.mx/producto/copa-menstrual-angelcup/1560">Copa Menstrual Angelcup</a></h5>
+            <div class="product-price-wrap">
+                <div class="product-price">$625.00</div>
+            </div>
+        </div>
+        <span class="product-badge product-badge-sale" style="display: none;">XXProducto.DescuentoPorXX</span>
+        <div class="product-button-wrap">
+            <div class="product-button"><a class="button button-primary-2 button-zakaria fl-bigmug-line-shopping202" href="https://www.ecobelleza.mx/producto/copa-menstrual-angelcup/1560" title="Comprar"></a></div>
+        </div>
+    </article>
+</div><div class="col-sm-6 col-md-4 col-lg-3">
+    <!-- Product-->
+    <article class="product wow fadeInRight"> 
+        <div class="product-body">
+            <div class="product-figure">
+                <div class="producto_foto" data-background="https://s3.amazonaws.com/contenido.ipos/fotos/1346/producto/m_t_fa41b1aa2c67430095f8a2108734a926_22022021064958.jpg"></div>
+            </div>
+            <h5 class="product-title"><a href="https://www.ecobelleza.mx/producto/esmalte-de-u-as-7-free/1612">Esmalte de Uñas 7-free</a></h5>
+            <div class="product-price-wrap">
+                <div class="product-price">$100.00</div>
+            </div>
+        </div>
+        <span class="product-badge product-badge-sale" style="display: none;">XXProducto.DescuentoPorXX</span>
+        <div class="product-button-wrap">
+            <div class="product-button"><a class="button button-primary-2 button-zakaria fl-bigmug-line-shopping202" href="https://www.ecobelleza.mx/producto/esmalte-de-u-as-7-free/1612" title="Comprar"></a></div>
+        </div>
+    </article>
+</div>
+        </div>
+    </div>
+</section><div id="comp5" class="anchor"></div><section class="section section-md text-md-left" style="background-color:#c3e3ce;color:#000000!important;">
+    <div class="container">
+        <div class="row row-70 row-lg-70 justify-content-center align-items-md-center">
+            <div class="col-sm-8 col-md-5 col-xl-6">
+                <div class="decorative-box">
+                    <img class="box-shadow-1" src="https://s3.amazonaws.com/contenido.ipos/fotos/1346/ecommerce/0829bef778a448578f125b43845bcf89_20022021014737.jpg" alt="" width="518" height="424" />
+                </div>
+            </div>
+            <div class="col-md-7 col-xl-6">
+                <h2 class="text-transform-capitalize wow fadeInRight" style="color:#000000!important;"></h2>
+                <p style="color:#000000!important;"><h2 style="text-align: center;"><span style="font-size:48px;">Haz el cambio a la Cosm&eacute;tica Natural</span></h2>
+
+<p style="text-align: center;"><br />
+<span style="font-size:20px;">Ya sea por problemas de piel y/o intolerancias o por conciencia hacia el medio ambiente y consumo responsable, cada vez mas personas nos sentimos atra&iacute;das a la eco-belleza.</span><br />
+<br />
+<u><span style="font-size:18px;"><a href="https://ecobelleza.ipos.site/pantallac/nuestra-filosof-a/392"><span style="color:#000000;">Conoce nuestra filosof&iacute;a &gt;</span></a></span></u></p></p>
+            </div>
+        </div>
+    </div>
+</section><div id="comp7" class="anchor"></div><section class="section section-md" style="">
+    <div class="container">
+        <h2 class="text-transform-capitalize wow fadeScale" style="">Entradas del Blog</h2>
+        <!-- Owl Carousel-->
+        <div class="owl-carousel" data-loop="false" data-items="1" data-sm-items="2" data-lg-items="3" data-margin="30" data-dots="true" data-mouse-drag="false" style="">
+            <!-- Post Classic-->
+            <article class="post post-classic box-md wow slideInDown">
+    <a class="post-classic-figure" href="https://www.ecobelleza.mx/blog/considera-estos-factores-antes-de-empezar-una-nueva-rutina-de-skincare/216"><div class="indexblog_foto" style="background-image: url('https://s3.amazonaws.com/contenido.ipos/fotos/1346/ecommerce_blog_item/')"></div></a>
+    <div class="post-classic-content">
+        <div class="post-classic-time">
+            <time datetime="Dec 09, 2021">Dec 09, 2021</time>
+        </div>
+        <h4 class="post-classic-title"><a href="https://www.ecobelleza.mx/blog/considera-estos-factores-antes-de-empezar-una-nueva-rutina-de-skincare/216">Considera estos factores antes de empezar una nueva rutina de skincare</a></h4>
+        <p class="post-classic-text"></p>
+    </div>
+</article><article class="post post-classic box-md wow slideInDown">
+    <a class="post-classic-figure" href="https://www.ecobelleza.mx/blog/considera-estos-factores-antes-de-empezar-una-nueva-rutina-de-skincare/212"><div class="indexblog_foto" style="background-image: url('https://s3.amazonaws.com/contenido.ipos/fotos/1346/ecommerce_blog_item/371d7430efdb4518b384cf64f958ae85_09122021102541.png')"></div></a>
+    <div class="post-classic-content">
+        <div class="post-classic-time">
+            <time datetime="Dec 09, 2021">Dec 09, 2021</time>
+        </div>
+        <h4 class="post-classic-title"><a href="https://www.ecobelleza.mx/blog/considera-estos-factores-antes-de-empezar-una-nueva-rutina-de-skincare/212">Considera estos factores antes de empezar una nueva rutina de skincare</a></h4>
+        <p class="post-classic-text"></p>
+    </div>
+</article><article class="post post-classic box-md wow slideInDown">
+    <a class="post-classic-figure" href="https://www.ecobelleza.mx/blog/3-exfoliantes-navide-os-para-regalar/208"><div class="indexblog_foto" style="background-image: url('https://s3.amazonaws.com/contenido.ipos/fotos/1346/ecommerce_blog_item/2b1e49a2401f450ba7744aabd31738ed_02122021030207.png')"></div></a>
+    <div class="post-classic-content">
+        <div class="post-classic-time">
+            <time datetime="Dec 02, 2021">Dec 02, 2021</time>
+        </div>
+        <h4 class="post-classic-title"><a href="https://www.ecobelleza.mx/blog/3-exfoliantes-navide-os-para-regalar/208">3 exfoliantes navideños para regalar</a></h4>
+        <p class="post-classic-text"></p>
+    </div>
+</article>
+        </div>
+    </div>
+</section><div id="comp17" class="anchor"></div><section class="section section-md" style="">
+    <div class="container">
+        <h2 class="text-transform-capitalize wow fadeScale" style="">Síguenos en Redes Sociales</h2>
+        <div class="container-fluid isotope-wrap">
+            <div class="row row-30 isotope isotope-custom-1">
+                <div class="col-sm-6 col-md-4 col-xl-3 isotope-item">
+    <!-- Thumbnail Classic-->
+    <style>
+        .instagram_pic {
+            width: 262px;
+            height: 262px;
+            background-position: 50% 50%;
+            background-repeat: no-repeat;
+            background-size: cover;
+        }
+        .thumbnail-classic {
+            cursor: pointer;
+        }
+    </style>
+    <article class="thumbnail-classic block-1" onclick="window.open('https://www.instagram.com/p/CLfL7gOnLaK/?utm_source=ig_web_copy_link','_blank')">
+        <a class="thumbnail-classic-figure instagram_item" href="https://www.instagram.com/p/CLfL7gOnLaK/?utm_source=ig_web_copy_link" target="_blank">
+            <div data-background="https://scontent.cdninstagram.com/v/t51.2885-15/sh0.08/e35/s640x640/151399257_3852265978185859_521541681377232362_n.jpg?_nc_ht=scontent.cdninstagram.com&_nc_cat=107&_nc_ohc=fRyC84A88XoAX__473Y&edm=AMO9-JQAAAAA&ccb=7-4&oh=247ba7c46a27c59d2bfc0c5566579802&oe=61B7C627&_nc_sid=b9f2ee" class="instagram_pic" />
+        </a>
+    </article>
+</div><div class="col-sm-6 col-md-4 col-xl-3 isotope-item">
+    <!-- Thumbnail Classic-->
+    <style>
+        .instagram_pic {
+            width: 262px;
+            height: 262px;
+            background-position: 50% 50%;
+            background-repeat: no-repeat;
+            background-size: cover;
+        }
+        .thumbnail-classic {
+            cursor: pointer;
+        }
+    </style>
+    <article class="thumbnail-classic block-1" onclick="window.open('https://www.instagram.com/p/CLXaITtn1Xj/?utm_source=ig_web_copy_link','_blank')">
+        <a class="thumbnail-classic-figure instagram_item" href="https://www.instagram.com/p/CLXaITtn1Xj/?utm_source=ig_web_copy_link" target="_blank">
+            <div data-background="https://scontent.cdninstagram.com/v/t51.2885-15/sh0.08/e35/s640x640/150656774_990581908134216_8808890094156915612_n.jpg?_nc_ht=scontent.cdninstagram.com&_nc_cat=100&_nc_ohc=ZRnIkfg10EsAX9UFegl&edm=AMO9-JQAAAAA&ccb=7-4&oh=6b24c07ba1c2addc0b104cfbd5e66056&oe=61B7C9DB&_nc_sid=b9f2ee" class="instagram_pic" />
+        </a>
+    </article>
+</div><div class="col-sm-6 col-md-4 col-xl-3 isotope-item">
+    <!-- Thumbnail Classic-->
+    <style>
+        .instagram_pic {
+            width: 262px;
+            height: 262px;
+            background-position: 50% 50%;
+            background-repeat: no-repeat;
+            background-size: cover;
+        }
+        .thumbnail-classic {
+            cursor: pointer;
+        }
+    </style>
+    <article class="thumbnail-classic block-1" onclick="window.open('https://www.instagram.com/p/CLU2TreBttT/?utm_source=ig_web_copy_link','_blank')">
+        <a class="thumbnail-classic-figure instagram_item" href="https://www.instagram.com/p/CLU2TreBttT/?utm_source=ig_web_copy_link" target="_blank">
+            <div data-background="https://scontent.cdninstagram.com/v/t51.2885-15/sh0.08/e35/s640x640/150741956_204868021328870_6861873971536677500_n.jpg?_nc_ht=scontent.cdninstagram.com&_nc_cat=102&_nc_ohc=PgPY0iqaC7MAX8BfDWL&edm=AMO9-JQAAAAA&ccb=7-4&oh=c813f0a3535212b4b1ec05a814857af4&oe=61B7C901&_nc_sid=b9f2ee" class="instagram_pic" />
+        </a>
+    </article>
+</div><div class="col-sm-6 col-md-4 col-xl-3 isotope-item">
+    <!-- Thumbnail Classic-->
+    <style>
+        .instagram_pic {
+            width: 262px;
+            height: 262px;
+            background-position: 50% 50%;
+            background-repeat: no-repeat;
+            background-size: cover;
+        }
+        .thumbnail-classic {
+            cursor: pointer;
+        }
+    </style>
+    <article class="thumbnail-classic block-1" onclick="window.open('https://www.instagram.com/p/CLcjs0QHw0G/?utm_source=ig_web_copy_link','_blank')">
+        <a class="thumbnail-classic-figure instagram_item" href="https://www.instagram.com/p/CLcjs0QHw0G/?utm_source=ig_web_copy_link" target="_blank">
+            <div data-background="https://scontent.cdninstagram.com/v/t51.2885-15/sh0.08/e35/s640x640/151194464_1383055515371725_8915854686331427865_n.jpg?_nc_ht=scontent.cdninstagram.com&_nc_cat=101&_nc_ohc=0ntwChdAim0AX_CoRNs&edm=AMO9-JQAAAAA&ccb=7-4&oh=4b460e100986be85cc2a7539efa5df2a&oe=61B7D87A&_nc_sid=b9f2ee" class="instagram_pic" />
+        </a>
+    </article>
+</div>
+            </div>
+        </div>
+    </div>
+</section><div id="comp25" class="anchor"></div><section class="section section-md" style="background-color:#c1e2cd;color:#000000!important;">
+    <div class="container">
+        <h2 class="text-transform-capitalize wow fadeScale" style="color:#000000!important;">Comunidad Ecobelleza</h2>
+        <div class="row row-30 justify-content-center align-items-center align-items-md-end" style="color:#000000!important;">
+            <div class="col-lg-3 text-left" style="align-self: normal;">
+                <p class="wow fadeInLeft" data-wow-delay=".1s">Únete a nuestra lista de correo y no te pierdas ninguna promoción</p>
+            </div>
+            <div class="col-lg-8 col-xl-9 inset-lg-bottom-10">
+                <!-- RD Mailform-->
+                <form class="rd-form rd-mailform rd-form-inline form-lg rd-form-text-center" data-form-output="form-output-global" data-form-type="subscribe">
+                    <div class="form-wrap wow fadeInUp">
+                        <input class="form-input" id="txt_email_newsletter" type="email" name="txt_email_newsletter" data-constraints="@Email @Required" style="color:#000000!important;; border-color:#000000!important;;" />
+                        <label class="form-label" for="txt_email_newsletter" style="color:#000000!important;">E-mail</label>
+                    </div>
+                    <div class="form-button wow fadeInRight">
+                        <button class="button button-shadow-2 button-zakaria button-lg button-primary" type="button" onclick="submitNewsletter()">Suscribirse</button>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</section>
+
+
+
+             <!-- Page Footer-->
+      <footer class="section footer-modern footer-modern-2">
+        <div class="footer-modern-body section-xl">
+          <div class="container">
+            <div class="row row-40 row-md-50 justify-content-xl-between">
+              <div class="col-md-10 col-lg-3 col-xl-4 wow fadeInRight">
+                <div class="inset-xl-right-70 block-1">
+                  <div class="footer-classic-brand">
+                    <!--Brand--><a class="brand" href="https://www.ecobelleza.mx/index"><img class="brand-logo-dark" src="https://s3.amazonaws.com/contenido.ipos/fotos/1346/ecommerce/d2f948495bee4677809f4af3ad5c5467_23072021092104.png" alt="" width="156" height="46"/><img class="brand-logo-light" src="https://s3.amazonaws.com/contenido.ipos/fotos/1346/ecommerce/178f0e1d93a447b4921ecc89e9be2f6f_23072021092104.png" alt="" width="156" height="46"/></a>
+                  </div>
+                  
+                <ul class="list-inline list-social-3 list-inline-sm">
+                    <li><a href="https://www.facebook.com/EcoBellezaMx/" class="icon mdi mdi-facebook" target="_blank"></a></li><li><a href="https://www.instagram.com/ecobellezamx/" class="icon mdi mdi-instagram" target="_blank"></a></li>
+
+                </ul>
+                  
+
+               
+
+
+                </div>
+              </div>
+              <div class="col-sm-6 col-md-7 col-lg-5 wow fadeInRight" data-wow-delay=".1s">
+                <h5 class="footer-modern-title navegacionCustom" >Navegación</h5>
+                <ul class="footer-modern-list footer-modern-list-2 d-sm-inline-block d-md-block">
+                      <li><a href="https://www.ecobelleza.mx/pantalla/pol-tica-de-privacidad/76" target="_self">Política de Privacidad</a></li><li><a href="https://www.ecobelleza.mx/pantalla/pol-tica-de-env-os/80" target="_self">Política de Envíos</a></li><li><a href="https://ecobelleza.ipos.site/facturacion" target="_self">Facturación</a></li><li><a href="https://www.ecobelleza.mx/pantallac/contacto/96" target="_self">Contacto</a></li><li><a href="https://www.ecobelleza.mx/pantallac/nosotros/204" target="_self">Nosotros</a></li><li><a href="https://www.ecobelleza.mx/pantallac/nuestra-filosof-a/392" target="_self">Nuestra Filosofía</a></li><li><a href="https://www.ecobelleza.mx/pantallac/linea-spa/396" target="_self">Linea SPA</a></li><li><a href="https://www.ecobelleza.mx/pantallac/estacion-refill-merida/420" target="_self">Estacion Refill Merida</a></li><li><a href="https://www.ecobelleza.mx/pantallac/emprende-con-ecobelleza/432" target="_self">Emprende con Ecobelleza</a></li>
+                </ul>
+              </div>
+              <div class="col-sm-6 col-md-5 col-lg-4 col-xl-3 wow fadeInRight" data-wow-delay=".2s">
+                <h5 class="footer-modern-title">Contacto</h5>
+                <ul class="contacts-creative">
+                    
+                  <li>
+                    <div class="unit unit-spacing-sm flex-column flex-md-row">
+                      <div class="unit-left"><span class="icon mdi mdi-map-marker"></span></div>
+                      <div class="unit-body"><a href="#">Avenida Yucatán 661 Local 1<br>Jardines de Merida, 97135<br>Yucatán, México</a></div>
+                    </div>
+                  </li>
+                    
+                              <li>
+                                <div class="unit unit-spacing-sm flex-column flex-md-row">
+                                  <div class="unit-left"><span class="icon mdi mdi-phone"></span></div>
+                                  <div class="unit-body"><a href="tel:9992904998">9992904998</a></div>
+                                </div>
+                              </li>
+                         
+                  <li>
+                    <div class="unit unit-spacing-sm flex-column flex-md-row">
+                      <div class="unit-left"><span class="icon mdi mdi-email-outline"></span></div>
+                      <div class="unit-body"><a href="/cdn-cgi/l/email-protection#8ef8ebe0faeffdceebede1ecebe2e2ebf4efa0e3f6"><span class="__cf_email__" data-cfemail="b6c0d3d8c2d7c5f6d3d5d9d4d3dadad3ccd798dbce">[email&#160;protected]</span></a></div>
+                    </div>
+                  </li>
+                    
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="footer-modern-panel text-center">
+          <div class="container">
+            <p class="rights"><span>&copy;&nbsp; </span><span class="copyright-year"></span><span>&nbsp;</span><span></span><span>.&nbsp; Todos los derechos reservados.</span><span>&nbsp;</span><span></span></p>  
+            <p><a href="https://ipos.mx/site/mx/home.html" target="_blank" class="powered_by_ipos">powered by iPos</a></p>
+          </div>
+        </div>
+      </footer>
+             
+    </div>
+    <div class="snackbars" id="form-output-global"></div>
+        <script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script>
+            var reloadReadyItems = 0;
+        </script>
+    <script src="https://www.ecobelleza.mx/cupcake/js/script.js?version=16.22" id="startupScripts"></script>
+         <!-- Placed JS at the end of the document so the pages load faster -->
+
+<!-- Generales basicas js -->
+        <script src="https://www.ecobelleza.mx/generales/js/generales_basicos.js?version=16.22"></script>
+        <script  type="text/javascript" src="https://www.ecobelleza.mx/generales/js/accordion.js"></script>
+        <script src="https://www.ecobelleza.mx/generales/colorbox/jquery.colorbox.js?version=16.22"></script>
+        <script src="https://www.ecobelleza.mx/generales/js/jquery.nice-number.js?version=16.22"></script>
+        <script src="https://www.ecobelleza.mx/generales/js/lazyloadbg.min.js"></script>
+        <script src="https://www.ecobelleza.mx/generales/js/compressor.js?version=16.22"></script>
+        <script src="https://www.ecobelleza.mx/cupcake/js/funciones.js?version=16.22"></script>
+        <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.min.js" integrity="sha256-VazP97ZCwtekAsvgPBSUwPFKdrwD3unUfSGVYrahUqU=" crossorigin="anonymous"></script>
+         <! GetButton.io widget >
+<script type="text/javascript">
+    (function () {
+        var options = {
+            whatsapp: "+5219991498838", // WhatsApp number
+            call_to_action: "Contáctanos", // Call to action
+            position: "right", // Position may be "right" or "left"
+        };
+        var proto = document.location.protocol, host = "getbutton.io", url = proto + "//static." + host;
+        var s = document.createElement("script"); s.type = "text/javascript"; s.async = true; s.src = url + "/widget-send-button/js/init.js";
+        s.onload = function () { WhWidgetSendButton.init(host, proto, options); };
+        var x = document.getElementsByTagName("script")[0]; x.parentNode.insertBefore(s, x);
+    })();
+</script>
+<! /GetButton.io widget ></form>
+</body>
+</html>
